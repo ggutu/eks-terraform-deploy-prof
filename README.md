@@ -5,3 +5,6 @@ Terraform configuration files to provision an EKS cluster on AWS.
 
 ======================
 https://www.youtube.com/watch?v=TXbOw0ffTMk   master-slave connections
+
+eks-code: https://www.youtube.com/watch?v=W9Ido51G5Po
+
